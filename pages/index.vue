@@ -27,7 +27,7 @@ function showAlert() {
         <div class="p-1">
           <Card>
             <CardContent class="flex aspect-square items-center justify-center p-6">
-              <span class="text-3xl font-semibold">{{ index + 1 }}</span>
+             <img src="../assets/images/q8.jpg" alt="">
             </CardContent>
           </Card>
         </div>
